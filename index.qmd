@@ -1,5 +1,5 @@
 ---
-title: "geo:nesis"
+title: "geo:truth"
 about:
   id: hero-heading
   template: jolla
@@ -15,21 +15,20 @@ about:
       href: https://www.linkedin.com/company/geo-nesis/
 ---
 
-### the beginning of
+### The truth is worth discovering
 
-:::{#hero-heading}
-
+::: {#hero-heading}
 :::
 
 ![](geonesis.gif)
 
-## Welcome to geo:nesis
+## Welcome to geo:truth
 
-At geo:nesis, we're on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all.
+At geo:truth, we're on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all.
 
 ## Who We Are
 
-geo:nesis is a dynamic nonprofit organization dedicated to leveraging geospatial insights, epidemiology, and programming to tackle the most pressing health challenges facing communities around the globe. With a diverse team of experts from various disciplines, we're driving change at the intersection of technology, science, and social justice.
+geo:truth is a dynamic nonprofit organization dedicated to leveraging geospatial insights, epidemiology, and programming to tackle the most pressing health challenges facing communities around the globe. With a diverse team of experts from various disciplines, we're driving change at the intersection of technology, science, and social justice.
 
 ## Our Vision
 
@@ -45,7 +44,7 @@ We envision a future where every individual has equal access to quality healthca
 
 4.  Capacity Building: We provide training and technical assistance to empower individuals and organizations with the knowledge and skills to address health disparities in their communities. Join Us
 
-5.  Whether you're a researcher, practitioner, advocate, or concerned citizen, there are many ways to get involved with geo:nesis and contribute to our mission. Explore our website to learn more about our work, upcoming events, and how you can partner with us to build a healthier, more equitable world.
+5.  Whether you're a researcher, practitioner, advocate, or concerned citizen, there are many ways to get involved with geo:truth and contribute to our mission. Explore our website to learn more about our work, upcoming events, and how you can partner with us to build a healthier, more equitable world.
 
 ## Together, Let's Make a Difference
 

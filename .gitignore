@@ -3,7 +3,7 @@
 .Rapp.history
 
 # R Project files
-*.Rproj 
+*.Rproj
 
 # Session Data files
 .RData
@@ -50,3 +50,11 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+/.quarto/
+
+# custom animations
+.mp4
+.gif
+.svg
+

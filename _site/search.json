@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Welcome to geo:truth",
     "section": "",
-    "text": "Email\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\nYour browser does not support the audio tag.\nAt geo:truth, we’re on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all."
+    "text": "Email\n  \n  \n    \n     Github\n  \n  \n    \n     LinkedIn\n&lt;video data-autoplay src=“test_vid.mp4” auto-play-media: true&gt;&lt;/video&gt;\nAt geo:truth, we’re on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all."
   },
   {
     "objectID": "about.html",
@@ -110,5 +110,12 @@
     "title": "Welcome to geo:truth",
     "section": "",
     "text": "At geo:truth, we’re on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all."
+  },
+  {
+    "objectID": "index.html#slide-title",
+    "href": "index.html#slide-title",
+    "title": "Welcome to geo:truth",
+    "section": "Slide Title",
+    "text": "Slide Title\n\nAt geo:truth, we’re on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all."
   }
 ]

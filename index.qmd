@@ -12,13 +12,15 @@ about:
       href: https://github.com
     - icon: linkedin
       text: LinkedIn
-      href: https://www.linkedin.com/company/geo-nesis/
+      href: https://www.linkedin.com/company/geo-truth/
 ---
 
 ::: {#hero-heading}
 :::
 
-![](images/g-01.gif) <audio controls autoplay loop><source src="https://drive.google.com/file/d/1wdveFsQ20Hvr4JMlzJPJw6eE2xJnP8YT/preview" type="audio/mpeg">Your browser does not support the audio tag.</audio>
+{{< video audiotouse2.mp3 width="110%" height="69%"  background-video-loop="true" background-video-muted="false" >}}
+
+\<video data-autoplay src="test_vid.mp4" auto-play-media: true\>\</video\>
 
 ------------------------------------------------------------------------
 

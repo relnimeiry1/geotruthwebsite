@@ -13,14 +13,15 @@ about:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/company/geo-truth/
+# format: 
+#   revealjs:
+#     auto-play-media: true
 ---
 
 ::: {#hero-heading}
 :::
 
-{{< video audiotouse2.mp3 width="110%" height="69%"  background-video-loop="true" background-video-muted="false" >}}
-
-\<video data-autoplay src="test_vid.mp4" auto-play-media: true\>\</video\>
+![](images/g-02.gif){fig-align="center"}
 
 ------------------------------------------------------------------------
 
@@ -43,3 +44,9 @@ At geo:truth, we're on a mission to revolutionize public health through the powe
 Join us in our quest to transform public health and create a future where everyone has the opportunity to thrive. Together, we can make a meaningful impact and pave the way for a healthier, more equitable world.
 
 ### 
+
+<audio controls autoplay loop>
+
+<source src="videoendsky.mp4" type="audio/mpeg">
+
+Your browser does not support the audio tag.</audio>

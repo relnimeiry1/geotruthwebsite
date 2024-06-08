@@ -27,3 +27,5 @@ We employ a multidisciplinary approach, combining expertise in geospatial analys
 ## **Get Involved**
 
 Join us in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come.
+
+<audio controls autoplay loop><source src="videoendsky.mp4" type="audio/mpeg">Your browser does not support the audio tag.</audio>

@@ -1,5 +1,5 @@
 ---
-title: "geo:truth"
+title: "Welcome to geo:truth"
 about:
   id: hero-heading
   template: jolla
@@ -15,24 +15,14 @@ about:
       href: https://www.linkedin.com/company/geo-nesis/
 ---
 
-### The truth is worth discovering
-
 ::: {#hero-heading}
 :::
 
-![](geonesis.gif)
+![](images/g-01.gif) <audio controls autoplay loop><source src="https://drive.google.com/file/d/1wdveFsQ20Hvr4JMlzJPJw6eE2xJnP8YT/preview" type="audio/mpeg">Your browser does not support the audio tag.</audio>
 
-## Welcome to geo:truth
+------------------------------------------------------------------------
 
 At geo:truth, we're on a mission to revolutionize public health through the power of geospatial technology and equity-driven initiatives. Our innovative approach combines cutting-edge data analysis with a deep commitment to addressing health disparities and promoting well-being for all.
-
-## Who We Are
-
-geo:truth is a dynamic nonprofit organization dedicated to leveraging geospatial insights, epidemiology, and programming to tackle the most pressing health challenges facing communities around the globe. With a diverse team of experts from various disciplines, we're driving change at the intersection of technology, science, and social justice.
-
-## Our Vision
-
-We envision a future where every individual has equal access to quality healthcare, regardless of their background or circumstances. By harnessing the potential of geospatial technology, we're working to create a world where health equity is not just an aspiration but a reality.
 
 ## What We Do
 
@@ -50,4 +40,4 @@ We envision a future where every individual has equal access to quality healthca
 
 Join us in our quest to transform public health and create a future where everyone has the opportunity to thrive. Together, we can make a meaningful impact and pave the way for a healthier, more equitable world.
 
-### This content appears below the formatted about page content.
+### 

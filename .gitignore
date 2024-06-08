@@ -54,7 +54,7 @@ rsconnect/
 /.quarto/
 
 # custom animations
-.mp4
-.gif
-.svg
+*.mp4
+*.gif
+*.svg
 

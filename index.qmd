@@ -21,7 +21,7 @@ about:
 ::: {#hero-heading}
 :::
 
-![](images/g-02.gif){fig-align="center"}
+![](images/g.gif){fig-align="center"}
 
 ------------------------------------------------------------------------
 

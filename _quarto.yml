@@ -38,6 +38,8 @@ website:
       <span class="faux-block">&#169; 2024 geo:truth CC BY-SA 4.0</span>
     center: |
       <span class="faux-block"><a href="https://www.linkedin.com/company/geo-truth/">Connect with us!</a></span>
+    right: |
+      <span class="faux-block">&#169; audio credit: hang massive</span>
     # right: |
     #   <span class="faux-block"><a href="https://github.com//">View source on GitHub</a></span>
 

@@ -6,7 +6,7 @@ title: "About Us"
 
 ## **Our Mission**
 
-We believe that "the truth is worth discovering."
+We believe that **the truth is worth discovering.**
 
 **geo:truth** is dedicated to leveraging geospatial insights, epidemiology, and data analytics to address health inequalities and foster healthier communities worldwide. By integrating cutting-edge technology with a commitment to equity, we strive to create a future where access to quality healthcare is not determined by zip code, income, or background.
 
@@ -26,7 +26,7 @@ We employ a multidisciplinary approach, combining expertise in geospatial analys
 
 ## **Get Involved**
 
-Join us in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with geo:truth. Together, we can make a difference and create lasting change for generations to come.
+Join us in our mission to build a healthier, more equitable world. Whether you're a researcher, practitioner, advocate, or concerned science citizen, there are many ways to get involved with **geo:truth**. Together, we can make a difference and create lasting change for generations to come.
 
 <audio controls autoplay loop>
 
